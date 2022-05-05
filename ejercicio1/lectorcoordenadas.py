@@ -26,7 +26,7 @@ elif X<0 and Y>0:
 elif X<0 and Y<0:
     resultado=("El punto esta en el tercer cuadrante")
 elif X>0 and Y<0:
-    resultado=("El punto esta en el cuarto cuadrante cuadrante")
+    resultado=("El punto esta en el cuarto cuadrante")
 elif X>0 and Y==0:
     resultado=("El punto esta sobre el eje positivo de las ordenadas")
 elif X<0 and Y==0:
